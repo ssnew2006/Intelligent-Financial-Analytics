@@ -60,7 +60,4 @@ Launch the dashboard locally:
 
 Bash
 streamlit run app.py
-bash```
 
-
-💼 Portfolio Highlights for Engineering & Data RolesDemonstrates proficiency in unstructured data extraction (IDP).Showcases full-stack productization of machine learning/analytics models using Streamlit.Applies rigorous statistical modeling (Volatility, Exposure Analysis, Matrix Pivoting) to financial instruments.
