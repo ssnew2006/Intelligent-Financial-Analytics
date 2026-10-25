@@ -60,21 +60,7 @@ Launch the dashboard locally:
 
 Bash
 streamlit run app.py
+bash```
 
----
-
-📈 Financial Methodology (Diminishing Musharakah)The application models a co-ownership structure where the financier (Investor) and client (Buyer) jointly own a property. Over a 10-year (120-month) tenor:
-
-- Rental Share: Calculated dynamically based on the financier's remaining principal balance:
-
-
-$$\text{Rental Share} = \frac{\text{Current Balance} \times \text{Annual Rate}}{12}$$
-
-- Unit Buyout (Redemption): Fixed monthly principal repayment:
-
-
-$$\text{Unit Redemption} = \frac{\text{Initial Investor Capital}}{\text{Total Months (120)}}$$
-
----
 
 💼 Portfolio Highlights for Engineering & Data RolesDemonstrates proficiency in unstructured data extraction (IDP).Showcases full-stack productization of machine learning/analytics models using Streamlit.Applies rigorous statistical modeling (Volatility, Exposure Analysis, Matrix Pivoting) to financial instruments.
